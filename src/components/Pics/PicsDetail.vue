@@ -1,5 +1,5 @@
 <template>
-  <div>购物车商品列表</div>
+  <div>图片描述</div>
 </template>
 <script>
 export default {
@@ -13,3 +13,5 @@ export default {
 <style>
 
 </style>
+
+
